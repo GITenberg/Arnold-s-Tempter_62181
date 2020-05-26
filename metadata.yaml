@@ -1,5 +1,8 @@
 _repo: Arnold-s-Tempter_62181
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62181-h/images/cover.jpg
 creator:
   author:
     agent_name: Comfort, Benjamin F. (Benjamin Freeman)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51810'
     url: http://www.gutenberg.org/2009/agents/51810
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62181#Arnold-s-Tempter
 gutenberg_issued: '2020-05-20'
 gutenberg_type: Text
 identifiers:
